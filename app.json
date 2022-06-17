@@ -11,8 +11,8 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/UlviSupport",
-    "repository": "https://github.com/Rahid_2003/Rahid-MP3",
+    "website": "https://t.me/ASOresmi",
+    "repository": "https://github.com/Zamannismiyev/Rahid-MP3",
     "success_url": "https://t.me/BrendUlvi",
     "env": {
         "API_ID": {
