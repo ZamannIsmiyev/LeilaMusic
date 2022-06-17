@@ -1,7 +1,7 @@
 {
-    "name": "MuudcVideo x Music Bot",
-    "description": "Video ve Müzik Akışı için Telegram botu",
-    "logo": "https://telegra.ph//file/4c86190fcbe14428c8c6b.jpg",
+    "name": "AygunVideo x Music Bot",
+    "description": "Video ve Musiqi Yayını Üçün Telegram botu",
+    "logo": "https://telegra.ph/file/ce31f843b674aeb14064a.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/UlviSupport",
+    "website": "https://t.me/ASOresmi",
     "repository": "https://github.com/Rahid_2003/Rahid-MP3",
-    "success_url": "https://t.me/BrendUlvi",
+    "success_url": "https://t.me/Letife789",
     "env": {
         "API_ID": {
             "description": "My.telegram'dan uygulama apı-hash.org/apps",
@@ -50,32 +50,32 @@
         "SUDO_USERS": {
             "description": "sudo üye listesine eklenecek kullanıcı kimliği listesi veya sadece id doldurun",
             "required": true,
-            "value": "1485534068"
+            "value": "5358886489"
         },
         "UPSTREAM_REPO": {
             "description": "Bu, güncelleme özelliği için gereklidir, eğer çatallı repo dağıttıysanız, olduğu gibi bırakmazsanız, çatallı repo bağlantınızı buraya koyun",
             "required": true,
-            "value": "https://github.com/Rahid_2003/Rahid-MP3"
+            "value": "https://github.com/Zamannismiyev/Rahid-MP3"
         },
         "GROUP_SUPPORT": {
             "description": "Grup kullanıcı adı @ olmadan yazınız.",
             "required": true,
-            "value": "Ulvi_Support"
+            "value": "WerabliAnlar"
         },
         "UPDATES_CHANNEL": {
             "description": "Kanal kullanıcı adı @ olmadan yazınız.",
             "required": true,
-            "value": "UlviSupport"
+            "value": "ASOresmi"
         },
         "OWNER_NAME": {
             "description": "Kendi kullanıcı adınız @ olmadan yazınız",
             "required": true,
-            "value": "BrendUlvi"
+            "value": "Letife789"
         },
         "ALIVE_NAME": {
             "description": "telgraf hesabınızın takma adı/adıyla doldurun",
             "required": true,
-            "value": "BrendUlvi"
+            "value": "Aygun🌸"
         }
     },
     "addons": [],
