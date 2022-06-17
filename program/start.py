@@ -75,11 +75,11 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton("📚 Əmrlər", callback_data="cbcmds"),
-                    InlineKeyboardButton("😍 Sahib", url=f"https://t.me/Letife789"),
+                    InlineKeyboardButton("😍 Sahibə", url=f"https://t.me/Letife789"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Söhbət Qrupu", url=f"https://t.me/WeraliAnlar"
+                        "💬 Söhbət Qrupu", url=f"https://t.me/WerabliAnlar"
                     ),
                     InlineKeyboardButton(
                         "🥰 Kanalım", url=f"https://t.me/ASOresmi"
@@ -105,7 +105,7 @@ async def alive(c: Client, message: Message):
             [
                 InlineKeyboardButton("📣 Dəstək", url=f"https://t.me/WerabliAnlar"),
                 InlineKeyboardButton(
-                    "🗯️ Məlumat", url=f"https://t.me/Letife789"
+                    "🗯️ Məlumat", url=f"https://t.me/WerabliAnlar"
                 ),
             ]
         ]
@@ -171,7 +171,7 @@ async def new_chat(c: Client, m: Message):
                     [
                         [
                             InlineKeyboardButton("📣 Məlumat", url=f"https://t.me/WerabliAnlar"),
-                            InlineKeyboardButton("🗯️ Dəstək", url=f"https://t.me/ASOresmi")
+                            InlineKeyboardButton("🗯️ Dəstək", url=f"https://t.me/WerabliAnlar")
                         ],
                         [
                             InlineKeyboardButton("🎙 Asistan", url=f"https://t.me/Aygun_88")
